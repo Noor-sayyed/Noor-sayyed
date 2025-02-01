@@ -1,6 +1,6 @@
 👋 Hi, I'm Noorul Hasan!
 
-🚀 I'm a Sofatware Developer and a student with a passion for data science. I love building projects that solve real-world problems and continuously learning new technologies.
+🚀 I'm a Software Developer and a student with a passion for data science. I am continuously learning new technologiesand I love building projects that solve real-world problems.
 
 💼 LinkedIn: https://www.linkedin.com/in/noorul-hasan-s-854792185/
 
