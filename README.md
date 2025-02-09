@@ -4,6 +4,6 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/noorul-hasan-s-854792185/
 
-📌 Fun Fact I have extensive experience in the field of Software development and Now I am transitioning into the filed of Data Sceince
+📌 Fun Fact I have extensive experience in the field of Software development and in the filed of Data Science.
 
 📧 Feel free to connect! Looking forward to collaborating on exciting projects.
